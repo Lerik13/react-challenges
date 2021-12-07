@@ -2,8 +2,7 @@ import React from 'react';
 import { Routes , Route } from "react-router-dom";
 import ChallengeList from './ChallengeList';
 import NewChallenge from './NewChallenge';
-
-const Challenge = () => null
+import Challenge from './Challenge';
 
 function App() {
 	return (
